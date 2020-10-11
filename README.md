@@ -6,7 +6,7 @@
 #### -36 squares of which 7 are bombs
 #### -bombs are randomly chosen
 #### -when you win/lose, a text and a restart button will apear(after restart the bombs will be in a random position again)
-#### -a checkbox with you cand mark the bombs, like in the photo below:
+#### -a checkbox with you can mark the bombs, like in the photo below:
 ![mark](https://user-images.githubusercontent.com/72700839/95685200-17df2c80-0bff-11eb-9eee-e9b78440f6f6.png)
 
 ### This is how it looks when you win:
