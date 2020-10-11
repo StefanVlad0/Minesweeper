@@ -1,0 +1,5 @@
+D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.vcxprojAssemblyReference.cache
+D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.MyForm.resources
+D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.vcxproj.GenerateResource.cache
+D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.exe
+D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.pdb

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Cod Visual Studio\Minesweeper\MyForm.h(2952,14): warning C4244: 'argument': conversion from 'Minesweeper::time_t' to 'unsigned int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Minesweeper.vcxproj -> D:\Cod Visual Studio\Minesweeper\Debug\Minesweeper.exe
