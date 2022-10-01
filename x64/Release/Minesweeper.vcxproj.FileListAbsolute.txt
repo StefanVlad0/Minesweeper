@@ -1,0 +1,5 @@
+E:\Descarcari\Minesweeper-main\Minesweeper-main\x64\Release\Minesweeper.vcxproj.AssemblyReference.cache
+E:\Descarcari\Minesweeper-main\Minesweeper-main\x64\Release\Minesweeper.vcxproj.SuggestedBindingRedirects.cache
+E:\Descarcari\Minesweeper-main\Minesweeper-main\x64\Release\Minesweeper.MyForm.resources
+E:\Descarcari\Minesweeper-main\Minesweeper-main\x64\Release\Minesweeper.vcxproj.GenerateResource.cache
+E:\Descarcari\Minesweeper-main\Minesweeper-main\x64\Release\Minesweeper.exe
